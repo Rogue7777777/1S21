@@ -5,7 +5,7 @@ public class P3p6_1s21{
     	int sum=0;
     	for (int num : a);
     		sum+=num;
-    	sum=sum/(a)
+    	sum=sum/(a);
     	return sum;
     }
 
